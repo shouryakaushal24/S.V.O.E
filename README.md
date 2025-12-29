@@ -94,6 +94,7 @@ The following parameters can be modified directly in the code:
 ```cpp
 #define GOOD_MAX 800
 #define MODERATE_MAX 1200
+```
 
 ---
 
