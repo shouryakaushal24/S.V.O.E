@@ -1,4 +1,4 @@
-# S.V.O.E – Smart Ventilation Operating Evaluator 🌬️
+# S.V.O.E – Smart Ventilation Operating Evaluator 
 
 ## Overview
 **S.V.O.E (Smart Ventilation Operating Evaluator)** is a low-cost indoor air quality monitoring system designed to measure **carbon dioxide (CO₂)** levels along with **temperature and humidity**. The system provides real-time visual feedback, alerts users when air quality becomes unsafe, and uploads data to **Google Sheets using IoT** for long-term analysis.
